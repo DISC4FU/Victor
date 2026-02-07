@@ -1,0 +1,22 @@
+{
+  "name": "victor-muthomi-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Victor Muthomi",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "portfolio",
+    "blockchain",
+    "software-engineering",
+    "web-development"
+  ],
+  "author": "Victor Muthomi <victormuthomi817@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DISC4FU/portfolio.git"
+  }
+}
